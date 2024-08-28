@@ -1,0 +1,9 @@
+Package: com.level3tjg.wfdbp
+Name: UKGBP
+Architecture: iphoneos-arm
+Description: Jailbreak bypass for UKG Dimensions and UKG Workforce Central
+Maintainer: level3tjg
+Author: level3tjg
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 0.0.2
